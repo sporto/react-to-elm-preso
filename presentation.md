@@ -409,6 +409,21 @@ Still not a thing, but some of this coming soon in 0.19
 - Not as mature are the React ecosystem
 
 ---
+
+## No webpack magic
+
+- Can't import CSS
+- Can't inline SVGs
+
+---
+
+# Big benefits of Elm for me
+
+- A lot more robust than JS (type system, no nulls)
+- An amazing refactoring experience
+
+---
+
 class: center, middle
 
 # Thank you
